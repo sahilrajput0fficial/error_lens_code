@@ -1,0 +1,47 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build outputs
+dist/
+build/
+.out/
+.next/
+
+# Electron
+release/
+*.asar
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+.env.local
+.env.*.local
+
+# IDE / Editors
+.vscode/
+.idea/
+*.swp
+
+# Turbo (if added later)
+.turbo/
+
+# Coverage
+coverage/
+
+# Cache
+.cache/
+.parcel-cache/
+
+# Misc
+*.lock
